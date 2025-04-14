@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <title>restaurant - Menu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="logo">
+      <h1>HN Fire Kitchen</h1>
+    </div>
+    <nav class="navbar">
+      <a href="res.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="cont.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="menu-page">
+    <h2>Our Menu</h2>
+
+    
+    <div class="menu-section">
+      <h3>Starters</h3>
+      <div class="menu-items">
+        <div class="menu-card">
+          <img src="ac.png" alt="Aloo Chaat">
+          <h4>Aloo Chaat</h4>
+          <p>Spiced crispy potatoes tossed with chutneys, onions, and coriander- a tangy street-style favorite.</p>
+        </div>
+        <div class="menu-card">
+          <img src="sr.png" alt="Veg Spring Roll">
+          <h4>Veg Spring Roll</h4>
+          <p>Crispy golden rolls filled with spiced mixed vegetables, served with tangy dipping sauce.</p>
+        </div>
+        <div class="menu-card">
+            <img src="ms.png" alt="Minestrone Soup">
+            <h4>Minestrone Soup</h4>
+            <p>Traditional Italian soup with vegetables, beans, and pasta.</p>
+          </div>
+          <div class="menu-card">
+            <img src="Bruschetta.jpg" alt="Bruschetta">
+            <h4>Bruschetta</h4>
+            <p>Toasted bread topped with tomato, basil, and olive oil.</p>
+          </div>
+      </div>
+    </div>
+
+   
+    <div class="menu-section">
+      <h3>Main Courses</h3>
+      <div class="menu-items">
+        <div class="menu-card">
+            <img src="cb.png" alt="Chole Bhature">
+            <h4>Chole Bhature</h4>
+            <p>Spicy chickpea curry served with soft, fluffy deep-fried bread — a North Indian classic.</p>            
+        </div>
+        <div class="menu-card">
+            <img src="vkc.png" alt="Veg Kofta Curry">
+            <h4>Veg Kofta Curry</h4>
+            <p>Delicate vegetable dumplings in a rich cashew and tomato gravy, full of royal flavors.</p>            
+        </div>
+        <div class="menu-card">
+            <img src="pbm.jpg" alt="Paneer Butter Masala">
+            <h4>Paneer Butter Masala</h4>
+            <p>Soft paneer cubes in a velvety tomato-butter gravy — rich, creamy, and irresistible.</p>
+        </div>
+        <div class="menu-card">
+            <img src="dal makhani.png" alt="Dal Makhani">
+            <h4>Dal Makhani</h4>
+            <p>Slow-cooked black lentils simmered in butter and cream, infused with mild spices.</p>
+           </div>
+      </div>
+    </div>
+
+    
+    <div class="menu-section">
+      <h3>Desserts</h3>
+      <div class="menu-items">
+        <div class="menu-card">
+            <img src="gj.png" alt="Gulab Jamun">
+            <h4>Gulab Jamun</h4>
+            <p>Soft and spongy milk dumplings soaked in rose-flavored sugar syrup — a timeless Indian delight.</p>            
+        </div>
+        <div class="menu-card">
+            <img src="mk.png" alt="Malai Kulfi">
+            <h4>Malai Kulfi</h4>
+            <p>Traditional Indian ice cream made with reduced milk, pistachios, and saffron — served chilled on a stick.</p>
+            </div>
+        <div class="menu-card">
+            <img src="jalebi.png" alt="Jalebi">
+            <h4>Jalebi</h4>
+            <p>Golden, crispy spirals soaked in saffron syrup, best enjoyed hot with a side of rabri.</p>
+            </div>
+          <div class="menu-card">
+            <img src="custurd.png" alt="Fruit Custard">
+            <h4>Fruit Custard</h4>
+            <p>Colorful medley of fresh fruits mixed in smooth vanilla custard — a light and refreshing treat.</p>
+            </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p> HN Fire Kitchen</p>
+    <p>SCO 28, Sector 26, Madhya Marg</p>   
+      <p> Chandigarh, 160019</p>
+      <p> Phone: +91 98765 43210</p>
+  </footer>
+</body>
+</html>
