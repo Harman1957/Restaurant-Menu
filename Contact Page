@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <title>restaurant - Contact</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+          <h1>HN Fire Kitchen</h1>
+        </div>
+        <nav class="navbar">
+          <a href="res.html">Home</a>
+          <a href="menu.html">Menu</a>
+          <a href="cont.html">Contact</a>
+        </nav>
+      </header>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>We’d love to hear from you! Send us a message below.</p>
+    <form>
+      <label for="name">Name</label>
+      <input type="text" id="name" required />
+
+      <label for="email">Email</label>
+      <input type="email" id="email" required />
+
+      <label for="message">Message</label>
+      <textarea id="message" rows="4" required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p> HN Fire Kitchen</p>
+     <p>SCO 28, Sector 26, Madhya Marg</p>   
+       <p> Chandigarh, 160019</p>
+       <p> Phone: +91 98765 43210</p>
+  </footer>
+</body>
+</html>
