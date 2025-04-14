@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>restaurant - Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="logo">
+      <h1>HN Fire Kitchen</h1>
+    </div>
+    <nav class="navbar">
+      <a href="res.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="cont.html">Contact</a>
+    </nav>
+  </header>
+
+  
+  <section class="class">
+    <div class="class-layout">
+      <h2>Welcome to HN Fire Kitchen</h2>
+      <p>Authentic Italian flavors crafted with passion.</p>
+      <a href="menu.html" class="class-btn">Explore Our Menu</a>
+    </div>
+  </section>
+
+  
+  <section class="about">
+    <h2>About Us</h2>
+    <p>At HN Fire Kitchen, we bring the heart of Italy to your plate. With traditional recipes passed down through generations, every bite is a celebration of culture, flavor, and family.</p>
+  </section>
+
+  
+  <section class="featured">
+    <h2>Featured Dishes</h2>
+    <div class="dish-list">
+      <div class="dish-card">
+        <img src="ac.png" alt="Aloo Chaat">
+        <h4>Aloo Chaat</h4>
+        <p>Spiced crispy potatoes tossed with chutneys, onions, and coriander- a tangy street-style favorite.</p>
+      </div>
+
+      <div class="dish-card">
+        <img src="cb.png" alt="Chole Bhature">
+        <h4>Chole Bhature</h4>
+        <p>Spicy chickpea curry served with soft, fluffy deep-fried bread — a North Indian classic.</p>            
+    </div>
+
+      <div class="dish-card">
+        <img src="jalebi.png" alt="Jalebi">
+        <h4>Jalebi</h4>
+        <p>Golden, crispy spirals soaked in saffron syrup, best enjoyed hot with a side of rabri.</p>
+    
+    </div>
+    </div>
+  </section>
+
+  <footer>
+    <p> HN Fire Kitchen</p>
+     <p>SCO 28, Sector 26, Madhya Marg</p>   
+       <p> Chandigarh, 160019</p>
+       <p> Phone: +91 98765 43210</p>
+  </footer>
+</body>
+</html>
